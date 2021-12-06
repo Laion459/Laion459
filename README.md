@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Laion459
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m  Leonardo
+- 👀 I’m interested in  aprender +
+v- 🌱 I’m currently learning  programação web
+- 💞️ I’m looking to collaborate on  projetos livres
+- 📫 How to reach me  laion459@gmail.com
 
 <!---
 Laion459/Laion459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
