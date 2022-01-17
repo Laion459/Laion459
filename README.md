@@ -4,7 +4,11 @@
 - 🌱 I’m currently learning  programação web, oop em java, outros projetos em C, C++ e python...
 - 💞️ I’m looking to collaborate on  projetos livres.
 - 📫 How to reach me  laion459@gmail.com | https://www.linkedin.com/in/leonardo-borges-7501bb197
-
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!---
 Laion459/Laion459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
