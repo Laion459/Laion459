@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/leonardo-borges-7501bb197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-  ![Snake animation](https://github.com/laion459/laion459/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/laion459/blob/output/github-contribution-grid-snake.svg)
  
 </div>  
   
