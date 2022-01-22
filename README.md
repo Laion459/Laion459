@@ -33,7 +33,6 @@
   
   <a href="https://www.linkedin.com/in/leonardo-borges-7501bb197?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bmir7KWKpRIONFzoZBXEo6g%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   
   ![Snake animation](https://github.com/laion459/laion459/blob/output/github-contribution-grid-snake.svg)
  
