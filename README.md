@@ -17,7 +17,7 @@
   <img align="center" alt="LEO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LEO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LEO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LEO-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="LEO-c" height="30" width="40" src="https://www.google.com/search?q=java&tbm=isch&source=iu&ictx=1&vet=1&fir=pmUEtzw5OcqmIM%252Cty8cA0ylPEPayM%252C%252Fm%252F07sbkfb%253B0KdXzTnHD4ewKM%252Cyk-6ZM79c6HMdM%252C_%253BbaPZYZlpiv-mVM%252CAspr3N6ZdwHBjM%252C_%253BYzvF3HhdYhC9qM%252CD_OUcELxYN64rM%252C_%253BTL0dkCojB2J9bM%252CD8z7rUgt2UhkBM%252C_%253BqwOiu_03Pd_IUM%252CUpVkiyOSJ1cz2M%252C_%253BtdA53GXqYc-JKM%252CToB8tIqOU4fqPM%252C_%253BFkfPJY7mcsMkRM%252CNrtI60z9Fj0lkM%252C_&usg=AI4_-kTXLJzMYyyYb0O45SIIicMs7iuZSg&sa=X&ved=2ahUKEwiRidbAuvT4AhVNiJUCHZ4_AjYQ_B16BAhMEAE#imgrc=pmUEtzw5OcqmIM">
   
 </div>
   
