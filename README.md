@@ -1,8 +1,8 @@
-- 👋 Hi, I’m  Leonardo!👋   🌱 ----* Bem vindo/a ao meu jardim. *----🌱
-- ✨ **Regue seu jardim e deixe as borboletas virem ate voce; Corra atras dos seus sonhos, aproveite o dia!.** ✨
-- 👀 I’m interested in  aprender + e não menos importante, aplicar!
-- 🌱 I’m currently learning  programação web, oop em java, outros projetos em C, C++ e python...
-- 💞️ I’m looking to collaborate on  projetos livres.
+- 👋 Hi, I’m  Leonardo!👋   🌱 ----* welcome to my garden. *----🌱
+- ✨ **Water your garden and let the butterflies come to you; Chase your dreams, seize the day!.** ✨
+- 👀 I’m interested in learn + and not least, apply!
+- 🌱 I’m currently learning  data structure, python and database 2...
+- 💞️ I’m looking to collaborate on free projects.
 - 📫 How to reach me  laion459@gmail.com | https://www.linkedin.com/in/leonardo-borges-7501bb197
 
 <div align="center">
@@ -18,10 +18,7 @@
   <img align="center" alt="LEO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LEO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LEO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LEO-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)">
-  <img align="center" alt="LEO-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg)">
-  <img align="center" alt="LEO-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)">
-  <img align="center" alt="LEO-Assembly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg)">
+  <img align="center" alt="LEO-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
 ##  
