@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Leonardo!👋   🌱 ----* welcome to my garden. *----🌱
 - ✨ **Water your garden and let the butterflies come to you; Chase your dreams, seize the day!.** ✨
 - 👀 I’m interested in learn + and not least, apply!
-- 🌱 I’m currently learning  data structure, python and database 2...
+- 🌱 I’m currently learning  software engineering, operating systems, computer systems security, formal languages ​​and automatons and information technology and society...
 - 💞️ I’m looking to collaborate on free projects.
 - 📫 How to reach me  laion459@gmail.com | https://www.linkedin.com/in/leonardo-borges-7501bb197
 
